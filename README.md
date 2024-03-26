@@ -4,7 +4,7 @@
 WP REST API Simpler is a WordPress plugin that adds a REST route for retrieving specific order details securely via Basic Authentication.
 
 ## Features
-- Adds a custom REST route (`/api/wp-order-api/v1/order/{order_id}`) to retrieve order details.
+- Adds a custom REST route (`/wp-json/wp-order-api/v1/order/{order_id}`) to retrieve order details.
 - Implements Basic Authentication for secure access to the REST route.
 - Allows configuration of Basic Authentication credentials via WordPress admin settings.
 
