@@ -23,6 +23,3 @@ WP REST API Simpler is a WordPress plugin that adds a REST route for retrieving 
 
 ## Configuration
 - The plugin adds a settings page under `Settings > Simpler Settings` where you can configure Basic Authentication credentials.
-
-## Support
-For support or issues, please open an [issue](https://github.com/your-username/wp-rest-api-simpler/issues) here on GitHub.
